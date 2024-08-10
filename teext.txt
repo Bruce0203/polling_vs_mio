@@ -1,0 +1,6 @@
+compare                  mean          
+├─ _1_register_mio       819.6 ns      
+├─ _1_register_polling   998.2 ns      
+├─ _2_poll_mio           12.33 µs      
+╰─ _2_poll_polling       12.26 µs      
+
