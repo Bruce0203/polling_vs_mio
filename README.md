@@ -1,3 +1,4 @@
+```
 # MBA M1
 compare                  mean          
 ├─ _1_register_mio       819.6 ns      
@@ -11,3 +12,4 @@ compare                  mean
 ├─ _1_register_polling   1.044 µs      
 ├─ _2_poll_mio           206 ns        
 ╰─ _2_poll_polling       1.359 µs      
+```
